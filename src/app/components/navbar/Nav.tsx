@@ -28,7 +28,7 @@ const MyNavbar = () => {
       <div className="container" style={{ fontSize: "20px" }}>
         <Link className="navbar-brand" href={"/"}>
           <Image
-            src={"/images/Newicon.jpg"}
+            src={"Newicon.jpg"}
             height={50}
             width={100}
             alt="shopicon"
